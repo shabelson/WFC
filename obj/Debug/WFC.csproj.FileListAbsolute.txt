@@ -1,0 +1,6 @@
+C:\Users\shabe\source\repos\WFC\bin\WFC.dll
+C:\Users\shabe\source\repos\WFC\bin\WFC.pdb
+C:\Users\shabe\source\repos\WFC\obj\Debug\WFC.csprojAssemblyReference.cache
+C:\Users\shabe\source\repos\WFC\obj\Debug\WFC.csproj.CoreCompileInputs.cache
+C:\Users\shabe\source\repos\WFC\obj\Debug\WFC.dll
+C:\Users\shabe\source\repos\WFC\obj\Debug\WFC.pdb
